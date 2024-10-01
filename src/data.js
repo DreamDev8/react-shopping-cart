@@ -1,0 +1,68 @@
+const productsData = [
+    {
+      id: 1,
+      img: "images/product-1.jpeg",
+      title: "Queen Panel Bed",
+      price: 120.99,
+      description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est totam quod, dignissimos magnam numquam ex officia magni qui deleniti quibusdam.",
+      quantity: 1,
+    },
+    {
+      id: 2,
+      img: "images/product-2.jpeg",
+      title: "King Panel Bed",
+      price: 110.99,
+      description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat alias rem eum ut nesciunt? Possimus ipsum officia saepe laboriosam, voluptatum, culpa aut dolor dolores tempora asperiores voluptate, voluptates dicta incidunt?",
+      quantity: 1,
+    },
+    {
+      id: 3,
+      img: "images/product-3.jpeg",
+      title: "Singe Panel Bed",
+      price: 90.99,
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore molestiae qui minus. Minus deleniti voluptate, facilis dolorum debitis rerum fugit numquam itaque alias, architecto obcaecati.",
+      quantity: 1,
+    },
+    {
+      id: 4,
+      img: "images/product-4.jpeg",
+      title: "Twin Panel Bed",
+      price: 100.99,
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, debitis.",
+      quantity: 1,
+    },
+    {
+      id: 5,
+      img: "images/product-5.jpeg",
+      title: "Fridge",
+      price: 70.99,
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta totam earum voluptatum eius temporibus, saepe similique ratione quo animi culpa!",
+      quantity: 1,
+    },
+    {
+      id: 6,
+      img: "images/product-6.jpeg",
+      title: "Dresser",
+      price: 60.99,
+      description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat alias rem eum ut nesciunt? Possimus ipsum officia saepe laboriosam, voluptatum, culpa aut dolor dolores tempora asperiores voluptate, voluptates dicta incidunt?",
+      quantity: 1,
+    },
+    {
+      id: 7,
+      img: "images/product-7.jpeg",
+      title: "Couch",
+      price: 95.99,
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, debitis.",
+      quantity: 1,
+    },
+    {
+      id: 8,
+      img: "images/product-8.jpeg",
+      title: "Table",
+      price: 50.99,
+      description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est totam quod, dignissimos magnam numquam ex officia magni qui deleniti quibusdam.",
+      quantity: 1,
+    },
+  ];
+
+  export default productsData;
